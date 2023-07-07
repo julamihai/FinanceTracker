@@ -1,0 +1,76 @@
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2022-12-31 00:53:35,916 [   3585]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 15:DefaultDispatcher-worker-4 | RdCoroutineHost overridden 
+2022-12-31 00:53:37,526 [   5195]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Robo tasks) or icon RasterizedImageDataLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=PHP, id=com.jetbrains.php, descriptorPath=plugin.xml, path=/snap/phpstorm/310/plugins/php-impl, version=223.8214.64, package=null, isBundled=true), packagePrefix=null, instanceId=130, state=active), path=icons/php-icon.svg)
+2022-12-31 00:53:37,565 [   5234]   WARN - #c.i.o.a.i.ActionUpdater - 493 ms to grab EDT for GitCommitWithStagingAreaAction#update@NavBarToolbar (git4idea.index.actions.GitCommitWithStagingAreaAction)
+2022-12-31 00:53:38,997 [   6666]   WARN - #c.i.o.a.i.ActionUpdater - 1020 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2022-12-31 00:53:38,998 [   6667]   WARN - #c.i.o.a.i.ActionUpdater - 1019 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2022-12-31 00:53:40,878 [   8547]   WARN - #c.i.o.v.i.l.NativeFileWatcherImpl - Watcher terminated with exit code 130
+Info  | RdCoroutineScope          | 57:AWT-EventQueue-0 | RdCoroutineHost has been reset 
+Info  | RdCoroutineScope          | 57:AWT-EventQueue-0 | RdCoroutineHost disposed 
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2022-12-31 00:54:23,875 [   3908]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 17:DefaultDispatcher-worker-6 | RdCoroutineHost overridden 
+2022-12-31 00:54:25,990 [   6023]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Robo tasks) or icon RasterizedImageDataLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=PHP, id=com.jetbrains.php, descriptorPath=plugin.xml, path=/snap/phpstorm/310/plugins/php-impl, version=223.8214.64, package=null, isBundled=true), packagePrefix=null, instanceId=130, state=active), path=icons/php-icon.svg)
+2022-12-31 00:54:27,113 [   7146]   WARN - #c.i.o.a.i.ActionUpdater - 588 ms to grab EDT for BackAction#update@MainToolbar (com.intellij.ide.actions.BackAction)
+2022-12-31 00:54:27,117 [   7150]   WARN - #c.i.o.a.i.ActionUpdater - 517 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2022-12-31 00:54:29,089 [   9122]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.lang.annotation.HighlightSeverity
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+Already running
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+Already running
+2022-12-31 00:57:40,870 [ 200903]   WARN - #c.i.u.x.Binding - no accessors for org.jetbrains.idea.perforce.perforce.ConnectionId
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2022-12-31 00:58:18,652 [   3393]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 21:DefaultDispatcher-worker-10 | RdCoroutineHost overridden 
+2022-12-31 00:58:20,682 [   5423]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Robo tasks) or icon RasterizedImageDataLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=PHP, id=com.jetbrains.php, descriptorPath=plugin.xml, path=/snap/phpstorm/310/plugins/php-impl, version=223.8214.64, package=null, isBundled=true), packagePrefix=null, instanceId=130, state=active), path=icons/php-icon.svg)
+2022-12-31 00:58:23,662 [   8403]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.lang.annotation.HighlightSeverity
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2022-12-31 01:03:27,554 [   3393]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 51:DefaultDispatcher-worker-34 | RdCoroutineHost overridden 
+2022-12-31 01:03:29,467 [   5306]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Robo tasks) or icon RasterizedImageDataLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=PHP, id=com.jetbrains.php, descriptorPath=plugin.xml, path=/snap/phpstorm/310/plugins/php-impl, version=223.8214.64, package=null, isBundled=true), packagePrefix=null, instanceId=130, state=active), path=icons/php-icon.svg)
+2022-12-31 01:03:29,956 [   5795]   WARN - #c.i.o.a.i.ActionUpdater - 808 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2022-12-31 01:03:32,231 [   8070]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.lang.annotation.HighlightSeverity
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2022-12-31 01:05:39,558 [   3363]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 24:DefaultDispatcher-worker-12 | RdCoroutineHost overridden 
+2022-12-31 01:05:41,367 [   5172]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Robo tasks) or icon RasterizedImageDataLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=PHP, id=com.jetbrains.php, descriptorPath=plugin.xml, path=/snap/phpstorm/310/plugins/php-impl, version=223.8214.64, package=null, isBundled=true), packagePrefix=null, instanceId=130, state=active), path=icons/php-icon.svg)
+2022-12-31 01:05:41,838 [   5643]   WARN - #c.i.o.a.i.ActionUpdater - 739 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2022-12-31 01:05:42,157 [   5962]   WARN - #c.i.o.a.i.ActionUpdater - 318 ms to grab EDT for ToolWindowHeader$2#getChildren@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2022-12-31 01:05:44,458 [   8263]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.lang.annotation.HighlightSeverity
+2022-12-31 01:06:00,190 [  23995]   WARN - #git4idea.annotate.GitAnnotationProvider - Git annotations are empty for file /home/codrut/financeLaravel/resources/views/welcome.blade.php in revision 7f204cb24d6bca4bfe4fdbcb166bdc4940bab9c4
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2022-12-31 01:06:23,472 [   3313]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 17:DefaultDispatcher-worker-6 | RdCoroutineHost overridden 
+2022-12-31 01:06:25,548 [   5389]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Robo tasks) or icon RasterizedImageDataLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=PHP, id=com.jetbrains.php, descriptorPath=plugin.xml, path=/snap/phpstorm/310/plugins/php-impl, version=223.8214.64, package=null, isBundled=true), packagePrefix=null, instanceId=130, state=active), path=icons/php-icon.svg)
+2022-12-31 01:06:25,689 [   5530]   WARN - #c.i.o.a.i.ActionUpdater - 1032 ms to grab EDT for GitCommitWithStagingAreaAction#update@NavBarToolbar (git4idea.index.actions.GitCommitWithStagingAreaAction)
+2022-12-31 01:06:26,278 [   6119]   WARN - #c.i.o.a.i.ActionUpdater - 1086 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2022-12-31 01:06:28,689 [   8530]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.lang.annotation.HighlightSeverity
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2022-12-31 01:08:00,220 [   4436]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 37:DefaultDispatcher-worker-23 | RdCoroutineHost overridden 
+2022-12-31 01:08:02,055 [   6271]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Robo tasks) or icon RasterizedImageDataLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=PHP, id=com.jetbrains.php, descriptorPath=plugin.xml, path=/snap/phpstorm/310/plugins/php-impl, version=223.8214.64, package=null, isBundled=true), packagePrefix=null, instanceId=130, state=active), path=icons/php-icon.svg)
+2022-12-31 01:08:02,391 [   6607]   WARN - #c.i.o.a.i.ActionUpdater - 756 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2022-12-31 01:08:04,845 [   9061]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.lang.annotation.HighlightSeverity
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2022-12-31 01:08:53,053 [   3192]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 32:DefaultDispatcher-worker-15 | RdCoroutineHost overridden 
+2022-12-31 01:08:55,140 [   5279]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Robo tasks) or icon RasterizedImageDataLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=PHP, id=com.jetbrains.php, descriptorPath=plugin.xml, path=/snap/phpstorm/310/plugins/php-impl, version=223.8214.64, package=null, isBundled=true), packagePrefix=null, instanceId=130, state=active), path=icons/php-icon.svg)
+2022-12-31 01:08:55,270 [   5409]   WARN - #c.i.o.a.i.ActionUpdater - 1061 ms to grab EDT for GitCommitWithStagingAreaAction#update@NavBarToolbar (git4idea.index.actions.GitCommitWithStagingAreaAction)
+2022-12-31 01:08:55,611 [   5750]   WARN - #c.i.o.a.i.ActionUpdater - 788 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2022-12-31 01:08:57,988 [   8127]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.lang.annotation.HighlightSeverity
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2022-12-31 01:09:35,197 [   3213]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 40:DefaultDispatcher-worker-23 | RdCoroutineHost overridden 
+2022-12-31 01:09:37,001 [   5017]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Robo tasks) or icon RasterizedImageDataLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=PHP, id=com.jetbrains.php, descriptorPath=plugin.xml, path=/snap/phpstorm/310/plugins/php-impl, version=223.8214.64, package=null, isBundled=true), packagePrefix=null, instanceId=130, state=active), path=icons/php-icon.svg)
+2022-12-31 01:09:37,172 [   5188]   WARN - #c.i.o.a.i.ActionUpdater - 949 ms to grab EDT for CWMTelephonyGroup#update@NavBarToolbar (com.jetbrains.rd.platform.codeWithMe.telephony.CWMTelephonyGroup)
+2022-12-31 01:09:37,607 [   5623]   WARN - #c.i.o.a.i.ActionUpdater - 943 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2022-12-31 01:09:37,991 [   6007]   WARN - #c.i.o.a.i.ActionUpdater - 765 ms to grab EDT for GitCommitWithStagingAreaAction#update@NavBarToolbar (git4idea.index.actions.GitCommitWithStagingAreaAction)
+2022-12-31 01:09:39,756 [   7772]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.lang.annotation.HighlightSeverity
+CompileCommand: exclude com/intellij/openapi/vfs/impl/FilePartNodeRoot.trieDescend bool exclude = true
+2022-12-31 01:11:22,278 [   3362]   WARN - #c.i.e.RunManager - Must be not called before project components initialized
+Info  | RdCoroutineScope          | 40:DefaultDispatcher-worker-26 | RdCoroutineHost overridden 
+2022-12-31 01:11:24,097 [   5181]   WARN - #c.i.o.w.i.ToolWindowImpl - ToolWindow icons should be 13x13. Please fix ToolWindow (ID:  Robo tasks) or icon RasterizedImageDataLoader(classLoader=PluginClassLoader(plugin=PluginDescriptor(name=PHP, id=com.jetbrains.php, descriptorPath=plugin.xml, path=/snap/phpstorm/310/plugins/php-impl, version=223.8214.64, package=null, isBundled=true), packagePrefix=null, instanceId=130, state=active), path=icons/php-icon.svg)
+2022-12-31 01:11:24,276 [   5360]   WARN - #c.i.o.a.i.ActionUpdater - 958 ms to grab EDT for GitCommitWithStagingAreaAction#update@NavBarToolbar (git4idea.index.actions.GitCommitWithStagingAreaAction)
+2022-12-31 01:11:24,721 [   5805]   WARN - #c.i.o.a.i.ActionUpdater - 894 ms to grab EDT for ToolWindowHeader$2#update@ToolwindowTitle (com.intellij.toolWindow.ToolWindowHeader$2)
+2022-12-31 01:11:26,648 [   7732]   WARN - #c.i.u.x.Binding - no accessors for com.intellij.lang.annotation.HighlightSeverity
